@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.2.1",
     "autoprefixer": "^10.4.4",
     "homepage": "https://keazulu23.github.io/LawFirmWebsite",
+    "netlify-cli": "^12.0.6",
     "postcss": "^8.4.12",
     "pure-react-carousel": "^1.28.1",
     "react": "^17.0.2",
